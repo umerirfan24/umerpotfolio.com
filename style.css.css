@@ -1,0 +1,102 @@
+﻿.main{
+    position: absolute;
+    top: 35%;
+    padding-left:40%;
+    color: aqua}
+    
+    .main1{
+        position: absolute;
+    top: 40%;
+    padding-left:34% ;
+    color: aqua;
+    
+
+    }
+    .main2{
+        position: absolute;
+    top: 50%;
+    padding-left:28% ;
+    color: aqua;
+    font-size:large;}
+    .social{
+        height: 40px;
+        width: 400px; 
+        position: absolute;
+        top: 80%;
+        margin-left: 40%;
+        }
+.facebook{height: 40px;
+width: 40px;}
+.instagram{height: 40px;
+width: 40px;}
+.twitter{height: 40px;
+width: 40px;}
+.whatsapp{height: 40px;
+width: 40px;}
+.image{
+    height: 120px;
+    width: 120px;
+    position: absolute;
+top: 90%;
+margin-top: 05%;
+margin-left:15%;
+border-radius: 60px;}
+
+.personal{
+position: absolute;
+top: 90%;
+margin-left:10%;}
+
+.info{
+margin-top: 15%;
+margin-left: 20%;
+}
+
+.table { margin-top: 12%;
+margin-left: 06%;
+font-size: larger;
+font-family: arial, sans-serif;
+color: blanchedalmond;
+
+
+width: 30%;
+float: left;
+}
+
+td, th {
+
+text-align: left;
+padding: 8px;
+}
+
+tr:nth-child  (even) {
+}
+.skills1{
+margin-left: 60%;
+height: 20%;
+position: absolute;
+top: 120%;
+}
+.button{margin-top: 35%;
+margin-left: 40%;
+height: 05%;
+width: 20%;}
+
+.check{
+margin-left:35%;
+margin-top: 03%;
+color:blanchedalmond;
+}
+.contact{ margin-left:45%;
+margin-top: 03%;
+color:blanchedalmond;
+}
+.foam{
+width: 70%;
+margin-left: 20%;
+}
+.umer{ margin-left: 42%;
+margin-top: 04%;}
+.butt2{margin-left: 75%;}
+
+
